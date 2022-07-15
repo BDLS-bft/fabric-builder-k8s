@@ -119,3 +119,4 @@ Deploy the chaincode package as usual, starting by installing the k8s chaincode 
 ```shell
 peer lifecycle chaincode install conga-nft-contract.tgz
 ```
+
